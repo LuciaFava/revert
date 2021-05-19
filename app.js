@@ -2,6 +2,7 @@ const app = {
     init: () => {
         conosole.log("app running");
     }
+    uno: 1
 
 }
 
